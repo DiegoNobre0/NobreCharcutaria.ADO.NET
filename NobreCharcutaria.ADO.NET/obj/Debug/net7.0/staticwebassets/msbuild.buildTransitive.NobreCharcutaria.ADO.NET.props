@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NobreCharcutaria.ADO.NET.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NobreCharcutaria.ADO.NET.props" />
+</Project>
